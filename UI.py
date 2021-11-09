@@ -90,4 +90,3 @@ class EZUI:
     
 if __name__ == "__main__":
     thewin = EZUI("tool.py")
-    #drawwin()
